@@ -122,6 +122,7 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+  <li>2024-02-28 更新了wordpress RCE-CVE-2024-25600 此次更新为试水更新。后半年着重内部更新exp!!! 请关注频道和github信息</li>
   <li>2024-01-19 Webfraneworktools v5.3 beta最新版已经发布。自行寻找下载地址。</li>
   <li>软件已经开放下载。dll生成器也带上了另外可以自己写插件事例https://github.com/peiqiF4ck/ToolsUserDllplugin 软件见release 软件发布版本为5.1 5.2 和5.3暂未发布避免影响扩大。源代码计划24年年中或者年终出售具体看情况而定也可能提前。出售源码后本人将不在维护公开版本的软件改为内部维护。另外频道已经开启欢迎大家订阅关注软件动态。再次感谢大家对软件的支持。软件如果无法下载,请自行寻找下载地址。作者将不在发布下载地址直到明年hw。期间作者将不在频道件更新软件信息</li>
   <li>2023-12-31 发布5.2 ini自定义配置文件调用任意第三方漏洞利用软件教程 https://peiqif4ck.github.io/securitytools/2024/01/articles/1fee187af88e0843 工具请关注文章具体在文章中发布</li>
@@ -523,3 +524,7 @@ webframeworktools 第三方调用ini测试截图
 2023hw漏洞更新截图
 
 ![2023hw漏洞更新](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/2023h%E6%9B%B4%E6%96%B0.png)
+
+wordpress RCE-CVE-2024-25600
+
+![wordpress](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/wordpress.png)
