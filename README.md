@@ -122,8 +122,8 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
-    <li>2024-03-30 2024-03-30 更新 泛微E-Office10 一键getshell exp 另外还更新了几个漏洞下次写github补上 QVD-2024-11354</li>
-   <li>2024-02-28 2024-03-14 更新 AspCms,DedeCms,Ecshop,FCKeditor,FineCms,MacCms,OmWeb,OpenSns,PhpWeb,QiBoCms,SouthDic,Zabbix,致远OA,YiQiCms,Eyoucms,LJcms,phpok,Oklite,ezEIP,phpcms,pageAdmin,Jymusic,BigIp,WordPress,seacms,u163pan,zzzcms,PowerCreatorCms,FHAdmin,YongYouNC,晨光cms,GameDomain,Discuz!,maccms10,phpoa,faka平台,maxcms,pigcms,beecms 等39个cmsexp 后半年不忙了继续补充弹药 </li>
+    <li>2024-03-30  更新 泛微E-Office10 一键getshell exp 另外还更新了几个漏洞下次写github补上 QVD-2024-11354</li>
+   <li>2024-03-14 更新 AspCms,DedeCms,Ecshop,FCKeditor,FineCms,MacCms,OmWeb,OpenSns,PhpWeb,QiBoCms,SouthDic,Zabbix,致远OA,YiQiCms,Eyoucms,LJcms,phpok,Oklite,ezEIP,phpcms,pageAdmin,Jymusic,BigIp,WordPress,seacms,u163pan,zzzcms,PowerCreatorCms,FHAdmin,YongYouNC,晨光cms,GameDomain,Discuz!,maccms10,phpoa,faka平台,maxcms,pigcms,beecms 等39个cmsexp 后半年不忙了继续补充弹药 </li>
   <li>2024-02-28 更新了wordpress RCE-CVE-2024-25600 此次更新为试水更新。证明群主还在。前半年不更新软件。需要了解软件和源代码的。关注频道。后半年着重内部更新exp!!! 请关注频道和github信息</li>
   <li>2024-01-19 Webfraneworktools v5.3 beta最新版已经发布。自行寻找下载地址。</li>
   <li>软件已经开放下载。dll生成器也带上了另外可以自己写插件事例https://github.com/peiqiF4ck/ToolsUserDllplugin 软件见release 软件发布版本为5.1 5.2 和5.3暂未发布避免影响扩大。源代码计划24年年中或者年终出售具体看情况而定也可能提前。出售源码后本人将不在维护公开版本的软件改为内部维护。另外频道已经开启欢迎大家订阅关注软件动态。再次感谢大家对软件的支持。软件如果无法下载,请自行寻找下载地址。作者将不在发布下载地址直到明年hw。期间作者将不在频道件更新软件信息</li>
