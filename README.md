@@ -122,6 +122,7 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+    <li>2024-06-03  更新 CVE-2024-5084 WordPress 上传漏洞 50个网站作为测试动图见下图</li>
     <li>2024-03-30  更新 泛微E-Office10 一键getshell exp 另外还更新了几个漏洞下次写github补上 QVD-2024-11354。实战复现文章:https://peiqif4ck.github.io/penetrationtest/2024/03/articles/b8f9d080e95e9930/ </li>
    <li>2024-03-14 更新 AspCms,DedeCms,Ecshop,FCKeditor,FineCms,MacCms,OmWeb,OpenSns,PhpWeb,QiBoCms,SouthDic,Zabbix,致远OA,YiQiCms,Eyoucms,LJcms,phpok,Oklite,ezEIP,phpcms,pageAdmin,Jymusic,BigIp,WordPress,seacms,u163pan,zzzcms,PowerCreatorCms,FHAdmin,YongYouNC,晨光cms,GameDomain,Discuz!,maccms10,phpoa,faka平台,maxcms,pigcms,beecms 等39个cmsexp 后半年不忙了继续补充弹药 </li>
   <li>2024-02-28 更新了wordpress RCE-CVE-2024-25600 此次更新为试水更新。证明群主还在。前半年不更新软件。需要了解软件和源代码的。关注频道。后半年着重内部更新exp!!! 请关注频道和github信息</li>
@@ -534,3 +535,11 @@ wordpress RCE-CVE-2024-25600
 QVD-2024-11354 Eoffice 10 远程代码执行漏洞一键getshell
 
 ![eoffice10](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/eoffce10.jpg)
+
+CVE-2024-5084  50个网站测试截图
+动图
+
+![CVE-2024-5084](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/CVE-2024-5084.gif)
+
+静态图
+![CVE-2024-5084](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/CVE-2024-5084.jpg)
