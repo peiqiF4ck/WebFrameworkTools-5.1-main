@@ -1,3 +1,4 @@
+
 <h1>2023关于软件通告</h1>
   
 <ul> 
@@ -543,3 +544,7 @@ CVE-2024-5084  50个网站测试截图
 
 静态图
 ![CVE-2024-5084](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/CVE-2024-5084.jpg)
+
+
+GeoServer RCE（CVE-2024-36401）
+![CVE-2024-36401](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/geoserverRCE.png)
