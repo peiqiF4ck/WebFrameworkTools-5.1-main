@@ -123,6 +123,7 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+    <li>2024-07-18 更新 软件下载地址到期时间为10月31号。下载地址见release。licenseKey见频道。</li>
     <li>2024-06-03  更新 CVE-2024-5084 WordPress 上传漏洞 50个网站作为测试动图见下图</li>
     <li>2024-03-30  更新 泛微E-Office10 一键getshell exp 另外还更新了几个漏洞下次写github补上 QVD-2024-11354。实战复现文章:https://peiqif4ck.github.io/penetrationtest/2024/03/articles/b8f9d080e95e9930/ </li>
    <li>2024-03-14 更新 AspCms,DedeCms,Ecshop,FCKeditor,FineCms,MacCms,OmWeb,OpenSns,PhpWeb,QiBoCms,SouthDic,Zabbix,致远OA,YiQiCms,Eyoucms,LJcms,phpok,Oklite,ezEIP,phpcms,pageAdmin,Jymusic,BigIp,WordPress,seacms,u163pan,zzzcms,PowerCreatorCms,FHAdmin,YongYouNC,晨光cms,GameDomain,Discuz!,maccms10,phpoa,faka平台,maxcms,pigcms,beecms 等39个cmsexp 后半年不忙了继续补充弹药 </li>
