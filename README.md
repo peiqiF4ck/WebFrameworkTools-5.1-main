@@ -123,6 +123,107 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+   <li>2024-08-26  详情见博客
+    更新时空erpshiro 反序列化漏洞 erp<br/>
+ 友点cms上传漏洞<br/>
+ hospital后勤系统上传漏洞  hospital<br/>
+ 大华智慧园区bitmap上传漏洞<br/>
+ 泛微任意文件读取漏洞。泛微任意用户登录绕过<br/>
+ 联达OA上传漏洞(不知名oa)<br/>
+ 鸿宇多用户商城 user.php 反序列化漏洞<br/>
+ 泛微e-office发序列化漏洞<br/>
+ 太阳能系统DataCube3(cve)<br/>
+ wordpress ticket 文件上传漏洞<br/>
+ wordpress booking 代码执行<br/>
+ 蓝凌智慧协同平台eis 文件上传漏洞<br/>
+ 可视化融合指挥调度平台上传漏洞<br/>
+ JeeSpringCloud uploadFile.jsp 文件上传<br/>
+ 用友U8 cloud servicedispatcher 反序列化rce漏洞 yongyouu8<br/>
+ 用友GRP-U8 operOriztion SQL注入漏洞<br/>
+ 用友GRP-U8 fastjson 漏洞<br/>
+ 富通天下外贸ERP任意文件上传漏洞<br/>
+ 普元eos 反序列化漏洞<br/>
+ 迅饶科技 X2View物联网设备存在任意用户添加漏洞<br/>
+ 中成科信票务管理平台任意文件上传漏洞<br/>
+ 魔方网表ERP存在文件上传漏洞<br/>
+ 电信网关配置管理系统RCE<br/>
+ H5云商城-任意文件上传(othercms)<br/>
+ 红海任意文件上传(othersystem)<br/>
+ 微擎系统-任意文件上传-AccountEdit(站很少没啥用容易修改配置 未集成)<br/>
+ 微厦在线学习平台OrganSetup存在任意文件上传漏洞(可能会触发问题未集成)<br/>
+ 分诊叫号系统任意文件上传漏洞(医院)<br/>
+ 泛微e-cology OA action.jsp 文件上传漏洞<br/>
+ 申欧录音系统rce漏洞<br/>
+ wordpress CVE-2024-5084 上传漏洞<br/>
+ 万户ezEip 上传漏洞,反序列化漏洞<br/>
+ LyLme Spage上传漏洞<br/>
+ 泛微OA-E-Mobile移动管理平台lang2sql任意文件上传漏洞<br/>
+ 迈普多命令执行漏洞<br/>
+ 云匣子堡垒机 fastjson漏洞<br/>
+Hikvision综合安防管理平台  applyAutoLoginTicket任意代码执行    <br/>
+Hikvision综合安防管理平台  applyCT任意代码执行    <br/>
+Hikvision综合安防管理平台  config-properties信息泄露    <br/>
+Hikvision综合安防管理平台  env信息泄露    <br/>
+Hikvision综合安防管理平台  find信息泄露    <br/>
+Hikvision综合安防管理平台  keepAlive任意代码执行      <br/>
+Hikvision综合安防管理平台  session任意代码执行       <br/>
+Hikvision综合安防管理平台  env_heapdump信息泄露    <br/>
+CVE-2024-4577 php cgi 远程命令执行<br/>
+CVE-2024-23692 HFS 远程命令执行<br/>
+课交单对接平台sql注入<br/>
+新增tp5 内置三种常用getshell方式。由于日志方式这个比较复杂将会在这三种方式都不管用的情况下使用日志方式手工getshell。<br/>
+ yzmcms rce漏洞<br/>
+ 和丰山海-数字标牌 任意文件上传<br/>
+ Chatgpt ai 弱口令<br/>
+ NetMizer RCE<br/>
+ X-NAS/Main RCE漏洞<br/>
+ pyq 上传漏洞<br/>
+ 极验xx任意文件读取漏洞<br/>
+ 短视频系统漏洞<br/>
+ geoserver 远程命令执行<br/>
+ ZXUi 文件上传漏洞<br/>
+ jx彩票漏洞<br/>
+ h*y发卡平台漏洞<br/>
+ jy cat 系统上传漏洞<br/>
+ qt 交易所漏洞<br/>
+ 3g shop 漏洞<br/>
+ jeecgboot漏洞<br/>
+ EKing-管理易 FileUpload存在任意文件上传漏洞<br/>
+ Apace OFBiz 授权不当致远程代码执行漏洞(CVE-2024-38856)<br/>
+ H3C iMC智能管理中心byod_index.xhtml远程代码执行漏洞<br/>
+ pbootcms rce漏洞<br/>
+ 同享人力资源管理系统-任意文件上传<br/>
+ 赛蓝企业管理系统-任意文件上传-SubmitUploadify<br/>
+ 瑞斯康达-多业务智能网关-远程命令执行<br/>
+ 喰星云-数字化餐饮服务系统任意用户添加漏洞<br/>
+ 时空智友ERP-任意文件上传<br/>
+ App托管服务分发平台-任意文件上传<br/>
+ 禅道任意用户添加漏洞<br/>
+ 金慧-综合管理信息系统-SQL注入<br/>
+ PEPM系统存在远程代码执行漏洞<br/>
+ LiveBOS 任意文件上传漏洞<br/>
+ 智慧校园(安校易)管理系统 任意文件上传<br/>
+ 中小学智慧校园信息管理系统 任意文件上传<br/>
+ 章管家 saveUser.htm 任意用户创建漏洞<br/>
+ ALR-F800命令执行漏洞<br/>
+ 赛企业管理系统 AuthToken/Index 身份认证绕过漏洞<br/>
+ 云时空社会化商业ERP系统 user/online 身份认证绕过漏洞<br/>
+ WookTeam sql注入和xxx漏洞<br/>
+ 九思OA文件读取漏洞<br/>
+ 用友U8-CRM import任意文件上传漏洞<br/>
+ 息AI网络运维平台RCE<br/>
+ 泛微  e-cology 9 sql注入漏洞<br/>
+ 蓝凌EKP存在sys_ui_component远程命令执行漏洞<br/>
+ 杭州三汇网debug rce<br/>
+ 用友NC系统FileManager任意文件上传<br/>
+ 赛通文档安全管理系统getAllUsers信息泄露<br/>
+ 某服装品牌系统任意文件上传<br/>
+ 指挥调度平台rce漏洞(绕过waf)<br/>
+ 致远OA任意文件上传漏洞<br/>
+ 致远互联FE 任意文件上传<br/>
+ 教学视频应用云任意文件上传<br/>
+ 潮GS企业管理软件反序列化<br/>
+   </li>
     <li>2024-07-18 更新 软件下载地址到期时间为10月31号。下载地址见release。licenseKey见频道。</li>
     <li>2024-06-03  更新 CVE-2024-5084 WordPress 上传漏洞 50个网站作为测试动图见下图</li>
     <li>2024-03-30  更新 泛微E-Office10 一键getshell exp 另外还更新了几个漏洞下次写github补上 QVD-2024-11354。实战复现文章:https://peiqif4ck.github.io/penetrationtest/2024/03/articles/b8f9d080e95e9930/ </li>
