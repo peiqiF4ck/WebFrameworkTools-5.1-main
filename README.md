@@ -123,6 +123,7 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+     <li>2024-10-30 更新dll生成器UserDllpluginExpGenerate 在处理Cyber​​Panel RCE options 请求无法处理的功能</li>
    <li>2024-08-26  详情见博客
     更新时空erpshiro 反序列化漏洞 erp<br/>
  友点cms上传漏洞<br/>
@@ -650,3 +651,6 @@ CVE-2024-5084  50个网站测试截图
 
 GeoServer RCE（CVE-2024-36401）
 ![CVE-2024-36401](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/geoserverRCE.png)
+
+QVD-2024-44346
+![CVE-2024-36401](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/QVD-2024-44346%20Cyber%E2%80%8B%E2%80%8BPanel%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.png)
