@@ -136,7 +136,8 @@ SPIP porte_plume插件代码执行漏洞<br/>
 pkpmbs 建设工程质量监督系统 任意文件上传<br/>
 CyberPanel upgrademysqlstatus 远程命令执行漏洞(QVD-2024-44346)<br/>
 若依漏洞(只加入登陆和swagger漏洞)<br/>
-某*云默认密码(自主发现0day如果这个不行后续将更新另外一个day这个可以通杀所有无需账号密码)   另外更新 某请求遇到大量数据时会奔溃的bug。后续将加入更多自主发现的漏洞。<li>
+某*云默认密码(自主发现0day如果这个不行后续将更新另外一个day这个可以通杀所有无需账号密码)   另外更新 某请求遇到大量数据时会奔溃的bug。后续将加入更多自主发现的漏洞。
+  </li>
      <li>2024-10-30 更新dll生成器UserDllpluginExpGenerate 在处理Cyber​​Panel RCE options 请求无法处理的功能</li>
    <li>2024-08-26  详情见博客
     更新时空erpshiro 反序列化漏洞 erp<br/>
