@@ -123,7 +123,8 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
-    <li>dll生成器 一键生成CVE-2025-3248代码执行exp 并且直接批量实战演示见youtube.</li>
+    <li>2025-05-29 更新vBulletin Remote Code Execution Vulnerabilities Exploited  远程代码执行漏洞 CVE-2025-48828 CVE-2025-48827截图演示见底部</li>
+    <li>2025-04-20 dll生成器 一键生成CVE-2025-3248代码执行exp 并且直接批量实战演示见youtube.</li>
   <li>2025-01-20 软件使用视频教程和文字教程和2024-08-31版本10w条已经发布到博客请去博客下载</li>
   <li>2024-11-01  更新漏洞如下:
 泛微 e-cology H2远程命令执行漏洞<br/>
@@ -671,3 +672,6 @@ GeoServer RCE（CVE-2024-36401）
 
 QVD-2024-44346
 ![CVE-2024-36401](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/QVD-2024-44346%20Cyber%E2%80%8B%E2%80%8BPanel%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.png)
+
+CVE-2025-48828|CVE-2025-48827
+![CVE-2025-48828]([https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/QVD-2024-44346%20Cyber%E2%80%8B%E2%80%8BPanel%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.png)
