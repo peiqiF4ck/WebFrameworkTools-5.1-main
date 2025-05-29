@@ -674,4 +674,4 @@ QVD-2024-44346
 ![CVE-2024-36401](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/QVD-2024-44346%20Cyber%E2%80%8B%E2%80%8BPanel%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.png)
 
 CVE-2025-48828|CVE-2025-48827
-![CVE-2025-48828]([https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/QVD-2024-44346%20Cyber%E2%80%8B%E2%80%8BPanel%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.png)
+![CVE-2025-48828](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/refs/heads/main/GWP_7U6~39%24C2MQ~1%5B%5B5~%25J.png)
